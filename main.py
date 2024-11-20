@@ -122,7 +122,7 @@ while running:
                 score = 0
 
         if event.type == bird_flap:
-            bird_index += 1
+            bird_index += 1#this is my project
 
             if bird_index > 2:
                 bird_index = 0
